@@ -1,0 +1,1 @@
+/bin/c99-gcc -fPIC -g  -shared -Wl,-soname,libLIBPort4.so -o libLIBPort4.so CMakeFiles/LIBPort4.dir/libport4.c.o   -L/usr/lib/libgdal.so  -Wl,-rpath,/usr/lib/libgdal.so /usr/lib/libgdal.so 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lifei/github/UDev/port4_solution/libport4/build",
+  "command": "/bin/c99-gcc -DLIBPort4_EXPORTS -I/usr/include/gdal  -g -fPIC   -fvisibility=hidden -o CMakeFiles/LIBPort4.dir/libport4.c.o   -c /home/lifei/github/UDev/port4_solution/libport4/libport4.c",
+  "file": "/home/lifei/github/UDev/port4_solution/libport4/libport4.c"
+}
+]

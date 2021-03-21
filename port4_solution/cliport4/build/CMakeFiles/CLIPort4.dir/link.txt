@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/CLIPort4.dir/main.cpp.o  -o CLIPort4  -Wl,-rpath,/home/lifei/github/UDev/port4_solution/cliport4/../libport4/build ../../libport4/build/libLIBPort4.so 

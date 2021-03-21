@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lifei/github/UDev/port4_solution/cliport4/build",
+  "command": "/bin/g++-9    -g   -std=gnu++11 -o CMakeFiles/CLIPort4.dir/main.cpp.o -c /home/lifei/github/UDev/port4_solution/cliport4/main.cpp",
+  "file": "/home/lifei/github/UDev/port4_solution/cliport4/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/lifei/github/UDev/port4_solution/cliport4/build/CMakeFiles/rebuild_cache.dir
+/home/lifei/github/UDev/port4_solution/cliport4/build/CMakeFiles/edit_cache.dir
+/home/lifei/github/UDev/port4_solution/cliport4/build/CMakeFiles/CLIPort4.dir
