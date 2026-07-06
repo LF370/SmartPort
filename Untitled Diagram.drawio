@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="QhJ_A7A5ahqmxk3ePwj9">
-    <mxGraphModel dx="2499" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2499" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=middle;" value="高精度&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;地图&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="450" y="870" as="geometry" />
+          <mxGeometry height="80" width="120" x="450" y="931" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" value="集卡定位仿真驱动" vertex="1">
-          <mxGeometry height="60" width="130" x="670" y="760" as="geometry" />
+          <mxGeometry height="60" width="130" x="670" y="821" as="geometry" />
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-22" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="wbFv9MDJ_wnUiio-fiau-43">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-22" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="964" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-23" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="RTG/Arrived&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="0.1115" y="1" as="geometry">
-            <mxPoint x="35" y="-39" as="offset" />
+            <mxPoint x="-5" y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=light-dark(#000000,#0066CC);" value="场桥定位驱动" vertex="1">
@@ -46,8 +46,8 @@
         <mxCell id="wbFv9MDJ_wnUiio-fiau-24" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="790" />
-              <mxPoint x="320" y="690" />
+              <mxPoint x="320" y="851" />
+              <mxPoint x="320" y="751" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,19 +57,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="生产任务定义&lt;div&gt;平台&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="150" y="760" as="geometry" />
+          <mxGeometry height="60" width="100" x="150" y="821" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-26" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbFv9MDJ_wnUiio-fiau-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="场桥路径" vertex="1">
-          <mxGeometry height="60" width="100" x="460" y="660" as="geometry" />
+          <mxGeometry height="60" width="100" x="460" y="721" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-13" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="集卡路径计算" vertex="1">
-          <mxGeometry height="60" width="100" x="460" y="760" as="geometry" />
+          <mxGeometry height="60" width="100" x="460" y="821" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-15" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-35">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" value="场桥定位仿真驱动" vertex="1">
-          <mxGeometry height="60" width="130" x="670" y="660" as="geometry" />
+          <mxGeometry height="60" width="130" x="670" y="721" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-18" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.623;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" target="wbFv9MDJ_wnUiio-fiau-35">
           <mxGeometry relative="1" as="geometry">
@@ -94,10 +94,11 @@
             <mxPoint x="-100" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-33" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.466;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-32">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-33" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-29" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.466;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="wbFv9MDJ_wnUiio-fiau-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="513" y="600" />
+              <mxPoint x="513" y="660" />
+              <mxPoint x="628" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +106,7 @@
           <mxGeometry height="65" width="136" x="450" y="474" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" value="场桥PLC仿真驱动" vertex="1">
-          <mxGeometry height="60" width="130" x="670" y="570" as="geometry" />
+          <mxGeometry height="60" width="130" x="670" y="631" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-34" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-35">
           <mxGeometry relative="1" as="geometry">
@@ -114,6 +115,19 @@
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-36" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="RTG/PLC" vertex="1">
           <mxGeometry relative="1" x="0.0777" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-55" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1212" y="210" />
+              <mxPoint x="1310" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-56" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ITK/LOC" vertex="1">
+          <mxGeometry relative="1" x="0.4605" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -149,7 +163,7 @@
         <mxCell id="wbFv9MDJ_wnUiio-fiau-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=light-dark(#000000,#0066CC);" value="场桥PLC驱动" vertex="1">
           <mxGeometry height="60" width="100" x="790" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-44" edge="1" parent="1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="wbFv9MDJ_wnUiio-fiau-29">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-44" edge="1" parent="1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="909.5" y="489.25" as="sourcePoint" />
             <mxPoint x="600" y="491" as="targetPoint" />
@@ -160,7 +174,7 @@
             <mxPoint x="36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-52" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-29">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-52" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-53" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Spreader/Touch" vertex="1">
@@ -168,10 +182,18 @@
             <mxPoint x="15" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-60" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#007FFF);curved=0;" target="wbFv9MDJ_wnUiio-fiau-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-61" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ITK/Arrived" vertex="1">
+          <mxGeometry relative="1" x="0.1405" y="-5" as="geometry">
+            <mxPoint x="-38" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillStyle=auto;fillColor=#dae8fc;strokeWidth=2;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" value="UFB MQ Broker" vertex="1">
           <mxGeometry height="65" width="137" x="895.5" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-46" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.402;entryY=0.004;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=0;entryPerimeter=0;" target="wbFv9MDJ_wnUiio-fiau-43">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-46" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.402;entryY=0.004;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=0;entryPerimeter=0;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-47" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trolley/Arrived" vertex="1">
@@ -179,7 +201,7 @@
             <mxPoint x="47" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-48" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbFv9MDJ_wnUiio-fiau-29">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-48" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbFv9MDJ_wnUiio-fiau-49" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trolley/Arrived" vertex="1">
@@ -187,7 +209,7 @@
             <mxPoint x="-25" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wbFv9MDJ_wnUiio-fiau-50" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-43">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-50" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="840" y="420" />
@@ -198,6 +220,24 @@
         <mxCell id="wbFv9MDJ_wnUiio-fiau-51" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Spreader/Touch" vertex="1">
           <mxGeometry relative="1" x="-0.0408" y="1" as="geometry">
             <mxPoint x="33" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=light-dark(#000000,#0066CC);" value="集卡定位驱动" vertex="1">
+          <mxGeometry height="60" width="100" x="1260" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-57" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-54" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;entryX=0.637;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#000000,#007FFF);" target="wbFv9MDJ_wnUiio-fiau-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="290" />
+              <mxPoint x="1240" y="380" />
+              <mxPoint x="983" y="380" />
+            </Array>
+            <mxPoint x="999" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-59" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ITK/Arrived" vertex="1">
+          <mxGeometry relative="1" x="0.1371" as="geometry">
+            <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
