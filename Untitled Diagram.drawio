@@ -1,17 +1,126 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="QhJ_A7A5ahqmxk3ePwj9">
-    <mxGraphModel dx="2540" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3265" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1HLv2kBVpQ4jiDdg2PBx-3" edge="1" parent="1" source="1HLv2kBVpQ4jiDdg2PBx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="1HLv2kBVpQ4jiDdg2PBx-2">
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-3" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HLv2kBVpQ4jiDdg2PBx-1" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="40" x="310" y="220" as="geometry" />
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-10" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbFv9MDJ_wnUiio-fiau-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HLv2kBVpQ4jiDdg2PBx-2" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="600" y="440" as="geometry" />
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=middle;" value="高精度&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;地图&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="450" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" value="集卡定位仿真驱动" vertex="1">
+          <mxGeometry height="60" width="130" x="670" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-22" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="wbFv9MDJ_wnUiio-fiau-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-23" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="到位反馈" vertex="1">
+          <mxGeometry relative="1" x="0.1115" y="1" as="geometry">
+            <mxPoint x="-65" y="-39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=light-dark(#000000,#0066CC);" value="场桥定位驱动" vertex="1">
+          <mxGeometry height="60" width="100" x="727" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="集卡定位驱动" vertex="1">
+          <mxGeometry height="60" width="100" x="-160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="集装箱堆存驱动" vertex="1">
+          <mxGeometry height="60" width="100" x="-160" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-11" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-12" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="集卡任务" vertex="1">
+          <mxGeometry relative="1" x="0.1222" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-24" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="790" />
+              <mxPoint x="320" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-25" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="场桥任务" vertex="1">
+          <mxGeometry relative="1" x="0.3946" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="生产任务定义&lt;div&gt;平台&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="150" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-26" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbFv9MDJ_wnUiio-fiau-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="场桥路径" vertex="1">
+          <mxGeometry height="60" width="100" x="460" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-13" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wbFv9MDJ_wnUiio-fiau-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="集卡路径计算" vertex="1">
+          <mxGeometry height="60" width="100" x="460" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-27" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="wbFv9MDJ_wnUiio-fiau-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1144" y="270" />
+              <mxPoint x="777" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-28" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Subscribe" vertex="1">
+          <mxGeometry relative="1" x="-0.0928" y="3" as="geometry">
+            <mxPoint x="-100" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-14" parent="1" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/dynamics365/ProductVisualize.svg;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" value="WSD MQ Broker" vertex="1">
+          <mxGeometry height="68" width="68" x="1110" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-15" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.529;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;" target="wbFv9MDJ_wnUiio-fiau-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1144" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-16" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="集卡定位信号" vertex="1">
+          <mxGeometry relative="1" x="0.325" y="5" as="geometry">
+            <mxPoint x="-161" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" value="场桥定位仿真驱动" vertex="1">
+          <mxGeometry height="60" width="130" x="670" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-18" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.51;entryY=0.941;entryDx=0;entryDy=0;entryPerimeter=0;" target="wbFv9MDJ_wnUiio-fiau-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-19" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="场桥定位信号" vertex="1">
+          <mxGeometry relative="1" x="0.2547" y="1" as="geometry">
+            <mxPoint x="-100" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-30" edge="1" parent="1" source="wbFv9MDJ_wnUiio-fiau-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbFv9MDJ_wnUiio-fiau-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-31" connectable="0" parent="wbFv9MDJ_wnUiio-fiau-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Su&#39;b&#39;scribe" vertex="1">
+          <mxGeometry relative="1" x="0.0707" y="-1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-21" parent="1" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/dynamics365/ProductVisualize.svg;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" value="&lt;sup&gt;UFB MQ Broker&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="68" width="68" x="930" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="wbFv9MDJ_wnUiio-fiau-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="场桥任务执行控制器" vertex="1">
+          <mxGeometry height="60" width="136" x="450" y="544" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
