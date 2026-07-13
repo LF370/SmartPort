@@ -4,6 +4,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZpX4doptbyCpLkaODE3u-4" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-13" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="250" />
+              <mxPoint x="250" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="外四数据管线" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="位置转换" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-8" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿梅山港场景" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-5" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZpX4doptbyCpLkaODE3u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-10" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-16" connectable="0" parent="ZpX4doptbyCpLkaODE3u-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="感知目标 ROS" vertex="1">
+          <mxGeometry relative="1" x="-0.1375" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="场桥虚拟感知组件" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="虚拟ROS 数据广播" vertex="1">
+          <mxGeometry height="80" width="120" x="660" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-15" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-17" connectable="0" parent="ZpX4doptbyCpLkaODE3u-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="感知目标 Unity 坐标" vertex="1">
+          <mxGeometry relative="1" x="0.16" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="世界坐标转换" vertex="1">
+          <mxGeometry height="60" width="120" x="900" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpX4doptbyCpLkaODE3u-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="感知仿真场景" vertex="1">
+          <mxGeometry height="60" width="120" x="900" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
