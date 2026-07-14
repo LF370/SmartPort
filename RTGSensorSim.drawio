@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BT0UFU37oAvm-0r1lB1w">
-    <mxGraphModel dx="1672" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1672" dy="1820" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
         <mxCell id="ZpX4doptbyCpLkaODE3u-40" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;场桥感知仿真系统组件与数据链路设计&lt;/span&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="260" x="20" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="ZpX4doptbyCpLkaODE3u-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;gradientColor=none;fillColor=light-dark(default, #5f5858);" value="岸桥/场桥 3D HMI&lt;div&gt;&amp;nbsp;系统&lt;/div&gt;" vertex="1">
+        <mxCell id="ZpX4doptbyCpLkaODE3u-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="岸桥/场桥 3D HMI&lt;div&gt;&amp;nbsp;系统&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="120" as="geometry" />
         </mxCell>
       </root>
