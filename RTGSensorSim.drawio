@@ -7,8 +7,8 @@
         <mxCell id="ZpX4doptbyCpLkaODE3u-4" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="250" />
-              <mxPoint x="250" y="284" />
+              <mxPoint x="380" y="287" />
+              <mxPoint x="380" y="321" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -20,10 +20,10 @@
         <mxCell id="ZpX4doptbyCpLkaODE3u-13" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="ZpX4doptbyCpLkaODE3u-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="250" />
-              <mxPoint x="240" y="299" />
+              <mxPoint x="370" y="287" />
+              <mxPoint x="370" y="336" />
             </Array>
-            <mxPoint x="290" y="350" as="targetPoint" />
+            <mxPoint x="420" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-27" connectable="0" parent="ZpX4doptbyCpLkaODE3u-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="集卡定位" vertex="1">
@@ -45,13 +45,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=light-dark(#FFFFFF,#4D4D4D);" value="外四数据管线" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" y="257" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-39" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空间位置转换" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="269" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="306" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-8" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-6">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿梅山港场景" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="467" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-5" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZpX4doptbyCpLkaODE3u-3">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-10" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="620" as="targetPoint" />
+            <mxPoint x="790" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-16" connectable="0" parent="ZpX4doptbyCpLkaODE3u-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="感知目标 ROS" vertex="1">
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="场桥虚拟感知组件" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="570" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="607" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-15" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-14">
           <mxGeometry relative="1" as="geometry" />
@@ -94,27 +94,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="世界坐标转换" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="427.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="1050" y="464.5" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-42" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="梅山港仿真系&lt;div&gt;数据管线&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="269" as="geometry" />
+          <mxGeometry height="60" width="120" x="1050" y="306" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillStyle=auto;fillColor=#dae8fc;strokeWidth=2;" value="虚拟 ROS 数据广播" vertex="1">
-          <mxGeometry height="65" width="190" x="600" y="425" as="geometry" />
+          <mxGeometry height="65" width="190" x="730" y="462" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-23" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/ProductVisualize.svg;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="610" y="430" as="geometry" />
+          <mxGeometry height="17" width="17" x="740" y="467" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-24" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZpX4doptbyCpLkaODE3u-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="457" as="targetPoint" />
+            <mxPoint x="1060" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-30" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-28" style="edgeStyle=isometricEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="ZpX4doptbyCpLkaODE3u-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="301" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-35" connectable="0" parent="ZpX4doptbyCpLkaODE3u-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="集卡定位&lt;div&gt;场桥定位&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3351" y="2" as="geometry">
@@ -122,16 +126,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillStyle=auto;fillColor=#dae8fc;strokeWidth=2;" value="外四&lt;br&gt;IOT 数据广播" vertex="1">
-          <mxGeometry height="45" width="95" x="140" y="40" as="geometry" />
+          <mxGeometry height="45" width="95" x="270" y="77" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-29" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/ProductVisualize.svg;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="144" y="42" as="geometry" />
+          <mxGeometry height="17" width="17" x="274" y="79" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-33" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="ZpX4doptbyCpLkaODE3u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-34" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="场桥位置" vertex="1">
-          <mxGeometry x="350" y="540" as="geometry">
+          <mxGeometry x="480" y="577" as="geometry">
             <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -139,13 +143,13 @@
           <mxGeometry height="40" width="260" x="20" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="岸桥/场桥 3D HMI&lt;div&gt;&amp;nbsp;系统&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="1050" y="157" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-44" edge="1" parent="1" source="ZpX4doptbyCpLkaODE3u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZpX4doptbyCpLkaODE3u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZpX4doptbyCpLkaODE3u-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="岸桥/场桥 感知设备标定&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;系统&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="570" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" y="607" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
