@@ -607,38 +607,41 @@
             <mxPoint x="940" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontSize=16;" value="集装箱三维标定场景平台" vertex="1">
-          <mxGeometry height="61" width="648" x="-863" y="2643" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-78" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="404" width="770" x="-863" y="2300" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备部署与调节&lt;div&gt;用户UI 交互模块&lt;/div&gt;" vertex="1">
-          <mxGeometry height="89" width="314" x="-542" y="2390" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-58" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#314354;fillColor=light-dark(#647687,#ABBFD4);fontColor=#ffffff;fontSize=16;" value="集装箱三维标定场景平台" vertex="1">
+          <mxGeometry height="61" width="648" y="343" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D4E1F5);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="标定场景定制模块" vertex="1">
-          <mxGeometry height="81" width="632" x="-855" y="2488" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-62" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备部署与调节&lt;div&gt;用户UI 交互模块&lt;/div&gt;" vertex="1">
+          <mxGeometry height="89" width="314" x="321" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="岸桥预制件" vertex="1">
-          <mxGeometry height="46" width="161" x="-858" y="2586" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-67" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="标定场景定制模块" vertex="1">
+          <mxGeometry height="81" width="632" x="8" y="188" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="集装箱预制件" vertex="1">
-          <mxGeometry height="49" width="156" x="-689" y="2584.5" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-68" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="岸桥预制件" vertex="1">
+          <mxGeometry height="46" width="161" x="5" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="集卡预制件" vertex="1">
-          <mxGeometry height="46" width="151" x="-523" y="2586" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-69" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="集装箱预制件" vertex="1">
+          <mxGeometry height="49" width="156" x="174" y="284.5" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="其它场景预制件" vertex="1">
-          <mxGeometry height="49" width="137" x="-357" y="2586" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-70" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="集卡预制件" vertex="1">
+          <mxGeometry height="46" width="151" x="340" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备安装虚拟导轨UI 模块" vertex="1">
-          <mxGeometry height="89" width="302.89" x="-852.89" y="2390" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-71" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="其它场景预制件" vertex="1">
+          <mxGeometry height="49" width="137" x="506" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E6FFCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备感知范围可视化范围渲染模块" vertex="1">
-          <mxGeometry height="78" width="631.89" x="-852.89" y="2300" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-72" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备安装虚拟导轨UI 模块" vertex="1">
+          <mxGeometry height="89" width="302.89" x="10.110000000000014" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E6E6E6);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="数据库持久化管理模块" vertex="1">
-          <mxGeometry height="314" width="106" x="-199" y="2386" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-73" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E6FFCC);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="感知设备感知范围可视化范围渲染模块" vertex="1">
+          <mxGeometry height="78" width="631.89" x="10.110000000000014" as="geometry" />
         </mxCell>
-        <mxCell id="GgqF3sMRTigdAC4bgrrr-66" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/PostgreSQL-30.svg;rounded=1;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
-          <mxGeometry height="47.5" width="41.96" x="-143" y="2648" as="geometry" />
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-75" parent="GgqF3sMRTigdAC4bgrrr-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E6E6E6);strokeColor=light-dark(#000000,#000000);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=15;" value="数据库持久化管理模块" vertex="1">
+          <mxGeometry height="314" width="106" x="664" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GgqF3sMRTigdAC4bgrrr-66" parent="GgqF3sMRTigdAC4bgrrr-78" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/PostgreSQL-30.svg;rounded=1;strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="47.5" width="41.96" x="720" y="348" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
