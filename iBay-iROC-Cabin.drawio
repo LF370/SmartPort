@@ -416,12 +416,10 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-254" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;jumpSize=15;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-248">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="542.2" y="339.49" />
-              <mxPoint x="542.2" y="500.74" />
-              <mxPoint x="617.63" y="500.74" />
-              <mxPoint x="617.63" y="545.09" />
-              <mxPoint x="829.74" y="545.09" />
-              <mxPoint x="829.74" y="488.8" />
+              <mxPoint x="542.17" y="339.5" />
+              <mxPoint x="542.17" y="500.75" />
+              <mxPoint x="617.67" y="500.75" />
+              <mxPoint x="617.67" y="535.75" />
             </Array>
           </mxGeometry>
         </mxCell>
