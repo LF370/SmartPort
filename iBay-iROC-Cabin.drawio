@@ -51,7 +51,7 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=bottom;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;" value="眼球追踪 DMS 安全系统" vertex="1">
           <mxGeometry height="191" width="318" x="1043" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;" value="中心机房" vertex="1">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=dashed;strokeColor=light-dark(#000000,#323232);arcSize=8;fillColor=light-dark(#FFFFFF,#9D9D9D);" value="中心机房" vertex="1">
           <mxGeometry height="260" width="209" x="777" y="651" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#434343);" value="网络组件" vertex="1">
