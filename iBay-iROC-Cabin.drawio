@@ -436,12 +436,6 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-24" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=light-dark(#FF6A00,#666666);strokeColor=none;shape=mxgraph.alibaba_cloud.hcs-sgw_hybrid_cloud_storage_gateway;" value="" vertex="1">
           <mxGeometry height="13" width="16.614" x="349.445" y="319.00333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-221" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="三维孪生引擎&lt;div&gt;GPU服务器&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;三维渲染&amp;nbsp; / 仿真 / 预测感知&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="86" width="170" x="792" y="802" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-223" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Domains.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="21.70334928229665" width="24.235406698564592" x="801.002105263158" y="808" as="geometry" />
-        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-243" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-240" style="shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=orthogonalEdgeStyle;" target="oGGHAHTuI8nof8Tvfhq0-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -461,8 +455,8 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-248" parent="oGGHAHTuI8nof8Tvfhq0-247" style="rounded=1;whiteSpace=wrap;html=1;" value="座舱安全&lt;div&gt;I/O控制器&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;报警分级&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;接管控制&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="77" width="111" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-286" parent="oGGHAHTuI8nof8Tvfhq0-247" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Safety.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="14" width="14" x="6" y="4" as="geometry" />
+        <mxCell id="MTM_6jXu7lYxdjov9XhQ-15" parent="oGGHAHTuI8nof8Tvfhq0-247" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHN0eWxlPSJjb2xvci1zY2hlbWU6IGxpZ2h0IGRhcms7Ij4mI3hhOwk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPi5zdDAgeyBmaWxsOiBsaWdodC1kYXJrKHJnYig2NiwgMTMzLCAyNDQpLCByZ2IoMjA0LCAyMDQsIDIwNCkpOyB9IDwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzLjMzIDB2Mi4zOGgtMi4xNlYwSDguODN2Mi4zOEg2LjY3VjBINC4yOXYyLjM4YTIgMiAwIDAgMC0xLjkxIDEuOTFIMHYyLjM4aDIuMzh2Mi4xNEgwdjIuMzhoMi4zOHYyLjE0SDB2Mi4zOGgyLjM4YTIgMiAwIDAgMCAxLjkxIDEuOTFWMjBoMi4zOHYtMi4zOGgyLjE2VjIwaDIuMzR2LTIuMzhoMi4xNlYyMGgyLjM4di0yLjM4YTIgMiAwIDAgMCAxLjkxLTEuOTFIMjB2LTIuMzhoLTIuMzh2LTIuMTRIMjBWOC44MWgtMi4zOFY2LjY3SDIwVjQuMjloLTIuMzhhMiAyIDAgMCAwLTEuOTEtMS45MVYwem0xLjUzIDE1LjI0SDUuMTRhLjM4LjM4IDAgMCAxLS4zOC0uMzhWNS4xNGEuMzguMzggMCAwIDEgLjM4LS4zOGg5LjcyYS4zOC4zOCAwIDAgMSAuMzguMzh2OS43MmEuMzguMzggMCAwIDEtLjM4LjM4em0tMi4wNy02LjEybC0zLjUgNC44NnYtMy42M0g3LjIybDMuNjEtNC44MXYzLjU4eiIvPiYjeGE7PC9zdmc+;fontFamily=Helvetica;fontSize=11;fontColor=default;" value="" vertex="1">
+          <mxGeometry height="13" width="13" x="5" y="6" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-252" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-70" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;" target="oGGHAHTuI8nof8Tvfhq0-248">
           <mxGeometry relative="1" as="geometry">
@@ -793,6 +787,15 @@
           <mxGeometry relative="1" x="-0.54" y="2" as="geometry">
             <mxPoint x="6" y="2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MTM_6jXu7lYxdjov9XhQ-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="86" width="170" x="792" y="802" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-221" parent="MTM_6jXu7lYxdjov9XhQ-17" style="rounded=1;whiteSpace=wrap;html=1;" value="三维孪生引擎&lt;div&gt;GPU服务器&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;三维渲染&amp;nbsp; / 仿真 / 预测感知&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MTM_6jXu7lYxdjov9XhQ-16" parent="MTM_6jXu7lYxdjov9XhQ-17" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Central_Applications.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="20" width="17.39" x="13.090000000000032" y="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
