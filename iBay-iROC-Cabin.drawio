@@ -44,17 +44,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="615" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillStyle=hatch;fillColor=light-dark(#FFFFFF,#1A1A1A);strokeWidth=1.1;dashed=1;strokeColor=light-dark(#000000,#2E2E2E);verticalAlign=bottom;" value="远端岸桥物理设备" vertex="1">
+          <mxGeometry height="121" width="424" x="158" y="573" as="geometry" />
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=middle;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;align=right;horizontal=1;" value="人&lt;div&gt;机&lt;div&gt;工&lt;div&gt;程&lt;div&gt;座&lt;div&gt;椅&lt;div&gt;与&lt;div&gt;舱&lt;div&gt;内&lt;div&gt;环&lt;div&gt;境&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="161" width="321" x="1040" y="202" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=bottom;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;" value="眼球追踪 DMS 安全系统" vertex="1">
           <mxGeometry height="191" width="318" x="1043" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=dashed;strokeColor=light-dark(#000000,#323232);arcSize=8;fillColor=light-dark(#FFFFFF,#9D9D9D);" value="中心机房" vertex="1">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;fillColor=light-dark(#FFFFFF,#101010);" value="中心机房" vertex="1">
           <mxGeometry height="260" width="209" x="777" y="651" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#434343);" value="网络组件" vertex="1">
@@ -79,6 +82,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-327" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="USB / CAN" vertex="1">
+          <mxGeometry relative="1" x="-0.676" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;arcSize=7;strokeColor=light-dark(#000000,#1C1C1C);" value="操控台面与控制组件" vertex="1">
           <mxGeometry height="155" width="281" x="1193" y="29" as="geometry" />
         </mxCell>
@@ -99,15 +107,6 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-5" parent="oGGHAHTuI8nof8Tvfhq0-11" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#707070);strokeColor=none;gradientColor=default;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;shadow=0;" value="" vertex="1">
           <mxGeometry height="12" width="15" x="2" y="4" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-12" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-1" parent="oGGHAHTuI8nof8Tvfhq0-12" style="rounded=1;whiteSpace=wrap;html=1;" value="主控PLC" vertex="1">
-          <mxGeometry height="60" width="120" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-4" parent="oGGHAHTuI8nof8Tvfhq0-12" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.not_contact;" value="" vertex="1">
-          <mxGeometry height="10" width="20" x="6" y="8" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-29" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="52" width="108" x="348.5" y="395" as="geometry" />
@@ -131,6 +130,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-312" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="光纤&lt;div&gt;控制、心跳、动作接管信号&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6225" y="2" as="geometry">
+            <mxPoint x="-20" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-34" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#000000,#007FFF);dashed=1;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -141,12 +145,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-313" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="5G/光纤&lt;div&gt;RTSP 高清视频流&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3258" y="1" as="geometry">
+            <mxPoint x="-56" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-35" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#000000,#007FFF);dashed=1;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="487" />
               <mxPoint x="429.5" y="487" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-314" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="&lt;div&gt;5G / 光纤&lt;/div&gt;UDP 点云数据流" vertex="1">
+          <mxGeometry relative="1" x="-0.5138" y="-2" as="geometry">
+            <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-36" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -217,6 +231,11 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-96" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-74" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-94">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-325" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="HDMI / DV" vertex="1">
+          <mxGeometry relative="1" x="0.2725" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-97" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="49" width="111" x="1210" y="58" as="geometry" />
@@ -347,6 +366,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-326" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-212" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="HDMI / DV&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.0655" y="-2" as="geometry">
+            <mxPoint x="-5" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-215" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;" target="oGGHAHTuI8nof8Tvfhq0-210">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -366,6 +390,11 @@
               <mxPoint x="593.4" y="721" />
             </Array>
             <mxPoint x="846" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-316" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-220" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="PLC 信号" vertex="1">
+          <mxGeometry relative="1" x="0.3693" y="-2" as="geometry">
+            <mxPoint x="83" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-228" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-231" style="shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=blockThin;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oGGHAHTuI8nof8Tvfhq0-221">
@@ -396,6 +425,11 @@
             <Array as="points">
               <mxPoint x="885.34" y="417.72" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-315" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="全景三维视频流" vertex="1">
+          <mxGeometry relative="1" x="-0.432" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="工控机B&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;全域三维视图&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -451,6 +485,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-328" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-243" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="USB 3.0" vertex="1">
+          <mxGeometry relative="1" x="-0.6983" y="-2" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-247" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="77" width="111" x="1071" y="478" as="geometry" />
         </mxCell>
@@ -471,9 +510,6 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-259" parent="oGGHAHTuI8nof8Tvfhq0-256" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Miscellaneous-2232/attention-614.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;" value="" vertex="1">
           <mxGeometry height="11" width="12.69" x="7" y="6" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-260" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/MS_Defender_EASM.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="18" width="14.68" x="386" y="747" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-262" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-248" style="shape=connector;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="oGGHAHTuI8nof8Tvfhq0-257" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -525,12 +561,6 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-284" parent="1" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.coriolis;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="14" width="13" x="2090" y="93.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-287" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2481/027_-_Shield-1321.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;" value="" vertex="1">
-          <mxGeometry height="24" width="24" x="1748" y="90.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-288" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2479/027_-_Shield-1255.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;" value="" vertex="1">
-          <mxGeometry height="24" width="24" x="1712" y="124.5" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-289" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="57" width="116" x="1201" y="288" as="geometry" />
@@ -588,6 +618,67 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-280" parent="1" style="shape=mxgraph.signs.transportation.seat_belt;html=1;pointerEvents=1;fillColor=light-dark(#000000,#3D3D3D);strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;gradientColor=default;" value="" vertex="1">
           <mxGeometry height="16" width="16" x="1070" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-303" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#CC0000);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="47.59" as="sourcePoint" />
+            <mxPoint x="129.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-304" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-303" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="220 V 强电" vertex="1">
+          <mxGeometry relative="1" x="-0.4826" y="2" as="geometry">
+            <mxPoint x="17" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-306" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="156.59" y="0.3100000000000023" as="sourcePoint" />
+            <mxPoint x="235.45000000000002" y="0.3100000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-307" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-306" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="弱电/ 控制 / 视频 / 传感器信号" vertex="1">
+          <mxGeometry relative="1" x="-0.2689" as="geometry">
+            <mxPoint x="12" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-309" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#007FFF);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#0000FF);labelBackgroundColor=none;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270.59" as="sourcePoint" />
+            <mxPoint x="349.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-310" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-309" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="高速以太网数据线" vertex="1">
+          <mxGeometry relative="1" x="-0.2689" as="geometry">
+            <mxPoint x="12" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="主控PLC" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-4" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.not_contact;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="176" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-322" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="75.14999999999998" width="126" x="440" y="736" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-320" parent="oGGHAHTuI8nof8Tvfhq0-322" style="rounded=1;whiteSpace=wrap;html=1;" value="码头TOS" vertex="1">
+          <mxGeometry height="75.15" width="126" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-319" parent="oGGHAHTuI8nof8Tvfhq0-322" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/power-bi/1/Power_BI-31.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;" value="" vertex="1">
+          <mxGeometry height="18" width="24.12" x="7" y="8.149999999999977" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-323" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-320" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#001DBC,#0066CC);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#0050ef;dashed=1;" target="oGGHAHTuI8nof8Tvfhq0-231">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="707.83" y="773.58" />
+              <mxPoint x="707.83" y="742.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-324" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-323" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="生产业务数据" vertex="1">
+          <mxGeometry relative="1" x="-0.4066" y="-2" as="geometry">
+            <mxPoint x="4" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
