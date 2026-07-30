@@ -767,7 +767,7 @@
         <mxCell id="MTM_6jXu7lYxdjov9XhQ-12" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;fontFamily=Helvetica;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="16" width="16" x="452.15" y="816" as="geometry" />
         </mxCell>
-        <mxCell id="MTM_6jXu7lYxdjov9XhQ-18" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="MTM_6jXu7lYxdjov9XhQ-18" connectable="0" parent="1" style="group;fontColor=light-dark(#000000,#373737);" value="" vertex="1">
           <mxGeometry height="60" width="391" x="170" y="596" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-1" parent="MTM_6jXu7lYxdjov9XhQ-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#5D5D5D);fontColor=light-dark(#000000,#494949);" value="岸桥主控PLC" vertex="1">
@@ -776,7 +776,7 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-4" parent="MTM_6jXu7lYxdjov9XhQ-18" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.not_contact;" value="" vertex="1">
           <mxGeometry height="10" width="20" x="6" y="8" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-3" parent="MTM_6jXu7lYxdjov9XhQ-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(transparent,#9D9D9D);fontColor=light-dark(#000000,#727272);" value="Lidar" vertex="1">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-3" parent="MTM_6jXu7lYxdjov9XhQ-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(transparent,#515151);fontColor=light-dark(#000000,#707070);" value="Lidar" vertex="1">
           <mxGeometry height="60" width="120" x="271" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-9" parent="MTM_6jXu7lYxdjov9XhQ-18" style="shape=switch;whiteSpace=wrap;html=1;rotation=45;fillColor=light-dark(#FFFFFF,#808080);strokeColor=none;" value="" vertex="1">
