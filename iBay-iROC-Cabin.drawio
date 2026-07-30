@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="1528" dy="1006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-327" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="USB / CAN" vertex="1">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-327" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="USB / CAN" vertex="1">
           <mxGeometry relative="1" x="-0.676" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -420,6 +420,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-334" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-233" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="三维孪生视频流" vertex="1">
+          <mxGeometry relative="1" x="-0.1633" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-234" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-231" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-210">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -427,9 +432,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-315" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="全景三维视频流" vertex="1">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-315" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="孪生仿真感知数据流" vertex="1">
           <mxGeometry relative="1" x="-0.432" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="工控机B&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;全域三维视图&lt;/span&gt;&lt;/div&gt;" vertex="1">
