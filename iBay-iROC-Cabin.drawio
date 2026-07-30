@@ -48,6 +48,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=middle;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;align=right;horizontal=1;" value="人&lt;div&gt;机&lt;div&gt;工&lt;div&gt;程&lt;div&gt;座&lt;div&gt;椅&lt;div&gt;与&lt;div&gt;舱&lt;div&gt;内&lt;div&gt;环&lt;div&gt;境&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="161" width="321" x="1040" y="202" as="geometry" />
+        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=bottom;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;" value="眼球追踪 DMS 安全系统" vertex="1">
           <mxGeometry height="191" width="318" x="1043" y="387" as="geometry" />
         </mxCell>
@@ -506,15 +509,6 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-269" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Sync_Services.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="30" width="36" x="767" y="643" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-278" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="57" width="116" x="1066" y="209" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-279" parent="oGGHAHTuI8nof8Tvfhq0-278" style="rounded=1;whiteSpace=wrap;html=1;" value="人机工程座椅" vertex="1">
-          <mxGeometry height="57" width="116" as="geometry" />
-        </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-280" parent="oGGHAHTuI8nof8Tvfhq0-278" style="shape=mxgraph.signs.transportation.seat_belt;html=1;pointerEvents=1;fillColor=light-dark(#000000,#3D3D3D);strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;gradientColor=default;" value="" vertex="1">
-          <mxGeometry height="16" width="16" x="4" y="3" as="geometry" />
-        </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-281" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="57" width="116" x="1068.5" y="288" as="geometry" />
         </mxCell>
@@ -583,6 +577,12 @@
               <mxPoint x="987.17" y="457.17" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="人机工程座椅" vertex="1">
+          <mxGeometry height="57" width="116" x="1066" y="209" as="geometry" />
+        </mxCell>
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-280" parent="1" style="shape=mxgraph.signs.transportation.seat_belt;html=1;pointerEvents=1;fillColor=light-dark(#000000,#3D3D3D);strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;gradientColor=default;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="1070" y="212" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
