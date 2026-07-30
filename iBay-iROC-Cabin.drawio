@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-327" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" value="USB" vertex="1">
           <mxGeometry relative="1" x="-0.676" y="2" as="geometry">
-            <mxPoint x="-18" y="45" as="offset" />
+            <mxPoint x="-14" y="74" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-10" connectable="0" parent="1" style="group" value="" vertex="1">
