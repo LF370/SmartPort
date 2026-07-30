@@ -857,7 +857,7 @@
           <mxGeometry height="14" width="6.61" x="8" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿真数据管线" vertex="1">
-          <mxGeometry height="49" width="111" x="325" y="31" as="geometry" />
+          <mxGeometry height="49" width="111" x="458" y="-46" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频于三维&lt;div&gt;空间融合&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="111" x="-28" y="297" as="geometry" />
@@ -872,10 +872,10 @@
           <mxGeometry height="14" width="6.61" x="8" as="geometry" />
         </mxCell>
         <mxCell id="PN6b8pApplwozufKOWfl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="驾驶员指令管线" vertex="1">
-          <mxGeometry height="49" width="111" x="325" y="101" as="geometry" />
+          <mxGeometry height="49" width="111" x="325" y="22" as="geometry" />
         </mxCell>
         <mxCell id="PN6b8pApplwozufKOWfl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="三维空间反馈管线" vertex="1">
-          <mxGeometry height="49" width="111" x="325" y="169" as="geometry" />
+          <mxGeometry height="49" width="111" x="458" y="20" as="geometry" />
         </mxCell>
         <mxCell id="vkqFiF31et4oUDYq7zcV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生产业务可视化&lt;div&gt;组件&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="111" x="-65" y="-84" as="geometry" />
@@ -900,6 +900,9 @@
         </mxCell>
         <mxCell id="vkqFiF31et4oUDYq7zcV-8" parent="vkqFiF31et4oUDYq7zcV-6" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
           <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="4ds1EfrYrSFMuCBX__J4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="显示阵列&lt;div&gt;控制组件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49" width="111" x="-314" y="-172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
