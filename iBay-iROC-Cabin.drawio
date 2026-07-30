@@ -1,48 +1,4 @@
-<mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Page-1" id="9nCWttZ_OWprs7Hl4EbG">
-    <mxGraphModel dx="1563" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="hg7LFWiX72LdnISuVgxF-12" edge="1" parent="1" source="hg7LFWiX72LdnISuVgxF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="hg7LFWiX72LdnISuVgxF-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="PLC" vertex="1">
-          <mxGeometry height="60" width="98" x="218" y="456" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="Video" vertex="1">
-          <mxGeometry height="60" width="98" x="214" y="580" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="TOS" vertex="1">
-          <mxGeometry height="60" width="98" x="210" y="691" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-13" edge="1" parent="1" source="hg7LFWiX72LdnISuVgxF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="hg7LFWiX72LdnISuVgxF-8" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="Gateway" vertex="1">
-          <mxGeometry height="38" width="78" x="366" y="551" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-10" edge="1" parent="1" source="hg7LFWiX72LdnISuVgxF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="hg7LFWiX72LdnISuVgxF-9" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="iPort-Enginer" vertex="1">
-          <mxGeometry height="60" width="98" x="524" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="Video+AR" vertex="1">
-          <mxGeometry height="60" width="98" x="524" y="421" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-11" edge="1" parent="1" source="hg7LFWiX72LdnISuVgxF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" target="hg7LFWiX72LdnISuVgxF-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="Full 3D View" vertex="1">
-          <mxGeometry height="60" width="98" x="586" y="691" as="geometry" />
-        </mxCell>
-        <mxCell id="hg7LFWiX72LdnISuVgxF-15" edge="1" parent="1" source="hg7LFWiX72LdnISuVgxF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;" target="hg7LFWiX72LdnISuVgxF-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
     <mxGraphModel dx="1846" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
