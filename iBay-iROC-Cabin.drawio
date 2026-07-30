@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -792,7 +792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uh8-McAKmQ5Fy92SR87X" name="SoftwareArchitecture">
-    <mxGraphModel dx="1666" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -848,7 +848,7 @@
           <mxGeometry height="49" width="111" x="-203" y="-86" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="71" width="111" x="38" y="27" as="geometry" />
+          <mxGeometry height="71" width="111" x="23" y="52" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-10" parent="hT3jd5FYTWUsfuTy1pXX-9" style="rounded=1;whiteSpace=wrap;html=1;" value="孪生渲染引擎" vertex="1">
           <mxGeometry height="71" width="111" as="geometry" />
@@ -857,13 +857,13 @@
           <mxGeometry height="14" width="6.61" x="8" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿真数据管线" vertex="1">
-          <mxGeometry height="49" width="111" x="246" y="3" as="geometry" />
+          <mxGeometry height="49" width="111" x="325" y="31" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频于三维&lt;div&gt;空间融合&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="111" x="-28" y="297" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-14" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="71" width="111" x="-110" y="22" as="geometry" />
+          <mxGeometry height="71" width="111" x="-110" y="52" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-15" parent="hT3jd5FYTWUsfuTy1pXX-14" style="rounded=1;whiteSpace=wrap;html=1;" value="视频AR 引擎" vertex="1">
           <mxGeometry height="71" width="111" as="geometry" />
@@ -872,10 +872,34 @@
           <mxGeometry height="14" width="6.61" x="8" as="geometry" />
         </mxCell>
         <mxCell id="PN6b8pApplwozufKOWfl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="驾驶员指令管线" vertex="1">
-          <mxGeometry height="49" width="111" x="246" y="73" as="geometry" />
+          <mxGeometry height="49" width="111" x="325" y="101" as="geometry" />
         </mxCell>
         <mxCell id="PN6b8pApplwozufKOWfl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="三维空间反馈管线" vertex="1">
-          <mxGeometry height="49" width="111" x="246" y="141" as="geometry" />
+          <mxGeometry height="49" width="111" x="325" y="169" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生产业务可视化&lt;div&gt;组件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49" width="111" x="-65" y="-84" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生产仿真编排控制" vertex="1">
+          <mxGeometry height="49" width="111" x="107" y="-84" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="操作日志系统" vertex="1">
+          <mxGeometry height="49" width="111" x="-481" y="-84" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="驾驶员安全登录" vertex="1">
+          <mxGeometry height="49" width="111" x="-481" y="-18" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="三维空间回溯" vertex="1">
+          <mxGeometry height="49" width="111" x="325" y="-46" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-6" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-294" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-7" parent="vkqFiF31et4oUDYq7zcV-6" style="rounded=1;whiteSpace=wrap;html=1;" value="目标感知" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-8" parent="vkqFiF31et4oUDYq7zcV-6" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
