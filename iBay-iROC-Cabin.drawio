@@ -429,7 +429,8 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-233" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-221" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-210">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="973.17" y="802" />
+              <mxPoint x="919.5" y="777.67" />
+              <mxPoint x="973.17" y="777.67" />
               <mxPoint x="973.17" y="617.67" />
               <mxPoint x="911.17" y="617.67" />
               <mxPoint x="911.17" y="417.83" />
