@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="1846" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,6 +787,77 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-5" parent="MTM_6jXu7lYxdjov9XhQ-18" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#707070);strokeColor=none;gradientColor=default;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;shadow=0;" value="" vertex="1">
           <mxGeometry height="12" width="15" x="137" y="4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uh8-McAKmQ5Fy92SR87X" name="SoftwareArchitecture">
+    <mxGraphModel dx="1666" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxjrBhsB_8iofprP1dYl-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-165" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-2" parent="MxjrBhsB_8iofprP1dYl-1" style="rounded=1;whiteSpace=wrap;html=1;" value="规划路径算法" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-3" parent="MxjrBhsB_8iofprP1dYl-1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-30" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-5" parent="MxjrBhsB_8iofprP1dYl-4" style="rounded=1;whiteSpace=wrap;html=1;" value="空间位置感知" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-6" parent="MxjrBhsB_8iofprP1dYl-4" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-165" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-8" parent="MxjrBhsB_8iofprP1dYl-7" style="rounded=1;whiteSpace=wrap;html=1;" value="眼球追踪算法" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-9" parent="MxjrBhsB_8iofprP1dYl-7" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多源数据融合" vertex="1">
+          <mxGeometry height="49" width="111" x="107" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-2" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-331" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-3" parent="hT3jd5FYTWUsfuTy1pXX-2" style="rounded=1;whiteSpace=wrap;html=1;" value="桥机PLC 数据管线" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-4" parent="hT3jd5FYTWUsfuTy1pXX-2" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="49" width="111" x="-333" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-6" parent="hT3jd5FYTWUsfuTy1pXX-5" style="rounded=1;whiteSpace=wrap;html=1;" value="感知数据管线" vertex="1">
+          <mxGeometry height="49" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-7" parent="hT3jd5FYTWUsfuTy1pXX-5" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="报警可视化组件" vertex="1">
+          <mxGeometry height="49" width="111" x="75" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="71" width="111" x="-56" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-10" parent="hT3jd5FYTWUsfuTy1pXX-9" style="rounded=1;whiteSpace=wrap;html=1;" value="孪生渲染引擎" vertex="1">
+          <mxGeometry height="71" width="111" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-11" parent="hT3jd5FYTWUsfuTy1pXX-9" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=light-dark(#EDEDED,#737373);strokeColor=none;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mainframe;network2IconW=0.4721;network2IconH=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="14" width="6.61" x="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿真数据管线" vertex="1">
+          <mxGeometry height="49" width="111" x="207" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
