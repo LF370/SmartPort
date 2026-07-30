@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="1528" dy="1006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-50" parent="oGGHAHTuI8nof8Tvfhq0-54" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#8C8C8C);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="0.5" width="3.4615384615384617" x="1.2692307692307692" as="geometry" />
         </mxCell>
-        <mxCell id="oGGHAHTuI8nof8Tvfhq0-254" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;jumpSize=15;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-248">
+        <mxCell id="oGGHAHTuI8nof8Tvfhq0-254" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#007FFF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;jumpSize=9;strokeWidth=0.5;" target="oGGHAHTuI8nof8Tvfhq0-248">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="551.17" y="339.5" />
