@@ -824,7 +824,7 @@
           <mxGeometry height="49" width="111" x="-203" y="-86" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="71" width="111" x="108" y="163" as="geometry" />
+          <mxGeometry height="71" width="111" x="27" y="11" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-10" parent="hT3jd5FYTWUsfuTy1pXX-9" style="rounded=1;whiteSpace=wrap;html=1;" value="孪生渲染引擎" vertex="1">
           <mxGeometry height="71" width="111" as="geometry" />
@@ -839,7 +839,7 @@
           <mxGeometry height="49" width="111" x="-26" y="210" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-14" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="71" width="111" x="-21" y="3" as="geometry" />
+          <mxGeometry height="71" width="111" x="187" y="38" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-15" parent="hT3jd5FYTWUsfuTy1pXX-14" style="rounded=1;whiteSpace=wrap;html=1;" value="视频AR 引擎" vertex="1">
           <mxGeometry height="71" width="111" as="geometry" />
@@ -920,25 +920,25 @@
           <mxGeometry height="43" width="211" x="281" y="22" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-22" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="68" width="401" x="70" y="448" as="geometry" />
+          <mxGeometry height="72" width="401" x="70" y="444" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-21" parent="-wqvOB2n5u9Pyp2wKyWW-22" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;fillStyle=hatch;fillColor=light-dark(#000000,#0B0B0B);gradientColor=none;dashed=1;strokeColor=light-dark(#000000,#2E2E2E);verticalAlign=top;align=center;" value="生产装备ECS 数据" vertex="1">
-          <mxGeometry height="68" width="401" as="geometry" />
+          <mxGeometry height="72" width="401" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-23" connectable="0" parent="-wqvOB2n5u9Pyp2wKyWW-22" style="group" value="" vertex="1">
-          <mxGeometry height="43" width="387" x="6" y="18" as="geometry" />
+          <mxGeometry height="45.529411764705884" width="387" x="6" y="19.058823529411764" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-11" parent="-wqvOB2n5u9Pyp2wKyWW-23" style="rounded=1;whiteSpace=wrap;html=1;" value="岸桥PLC 数据" vertex="1">
-          <mxGeometry height="43" width="166" as="geometry" />
+          <mxGeometry height="45.529411764705884" width="166" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-12" parent="-wqvOB2n5u9Pyp2wKyWW-23" style="rounded=1;whiteSpace=wrap;html=1;" value="岸桥定位数据" vertex="1">
-          <mxGeometry height="43" width="109" x="170" as="geometry" />
+          <mxGeometry height="45.529411764705884" width="109" x="170" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-13" parent="-wqvOB2n5u9Pyp2wKyWW-23" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#3E3E3E);fontColor=light-dark(#000000,#676767);" value="集卡定数据" vertex="1">
-          <mxGeometry height="43" width="104" x="283" as="geometry" />
+          <mxGeometry height="45.529411764705884" width="104" x="283" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;fillStyle=hatch;fillColor=light-dark(#000000,#0B0B0B);gradientColor=none;dashed=1;strokeColor=light-dark(#000000,#2E2E2E);verticalAlign=top;align=center;" value="标定数据" vertex="1">
-          <mxGeometry height="68" width="346" x="-307" y="446" as="geometry" />
+          <mxGeometry height="71" width="346" x="-307" y="443" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="岸桥Camera 内外参标定数据" vertex="1">
           <mxGeometry height="43" width="178.96" x="-300.96" y="464" as="geometry" />
