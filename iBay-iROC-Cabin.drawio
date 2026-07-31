@@ -20,7 +20,7 @@
           <mxGeometry height="178" width="321" x="1040" y="185" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=bottom;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;" value="眼球追踪 DMS 安全系统" vertex="1">
-          <mxGeometry height="198" width="318" x="1043" y="387" as="geometry" />
+          <mxGeometry height="206" width="318" x="1043" y="379" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;shadow=1;verticalAlign=top;textShadow=0;fillStyle=hatch;strokeColor=light-dark(#000000,#323232);arcSize=8;fillColor=light-dark(#FFFFFF,#101010);" value="中心机房" vertex="1">
           <mxGeometry height="260" width="209" x="777" y="651" as="geometry" />
@@ -493,7 +493,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-240" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DMS双目摄像头" vertex="1">
-          <mxGeometry height="49" width="111" x="1069" y="395" as="geometry" />
+          <mxGeometry height="49" width="111" x="1069" y="394" as="geometry" />
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-241" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="12" width="12.61" x="1076" y="400" as="geometry" />
