@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="1244" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,11 +37,11 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-151" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oGGHAHTuI8nof8Tvfhq0-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1265.52" y="68.48" />
-              <mxPoint x="1150.41" y="68.48" />
-              <mxPoint x="1150.41" y="167.24" />
-              <mxPoint x="850.34" y="167.24" />
-              <mxPoint x="850.34" y="327.31" />
+              <mxPoint x="1265.53" y="68.47" />
+              <mxPoint x="1157.67" y="68.47" />
+              <mxPoint x="1157.67" y="167.27" />
+              <mxPoint x="850.33" y="167.27" />
+              <mxPoint x="850.33" y="327.33" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -664,11 +664,11 @@
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-337" edge="1" parent="1" source="oGGHAHTuI8nof8Tvfhq0-112" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;" target="oGGHAHTuI8nof8Tvfhq0-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1402.48" y="68.48" />
-              <mxPoint x="1169.1" y="68.48" />
-              <mxPoint x="1169.1" y="167.24" />
-              <mxPoint x="850.34" y="167.24" />
-              <mxPoint x="850.34" y="327.31" />
+              <mxPoint x="1402.53" y="73.93" />
+              <mxPoint x="1169.13" y="73.93" />
+              <mxPoint x="1169.13" y="167.27" />
+              <mxPoint x="850.33" y="167.27" />
+              <mxPoint x="850.33" y="327.33" />
             </Array>
           </mxGeometry>
         </mxCell>
