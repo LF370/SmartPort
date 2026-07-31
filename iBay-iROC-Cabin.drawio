@@ -878,7 +878,7 @@
           <mxGeometry height="33" width="561" x="-260" y="-164" as="geometry" />
         </mxCell>
         <mxCell id="MxjrBhsB_8iofprP1dYl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="规划路径算法" vertex="1">
-          <mxGeometry height="49" width="111" x="41" y="155" as="geometry" />
+          <mxGeometry height="49" width="111" x="95" y="210" as="geometry" />
         </mxCell>
         <mxCell id="MxjrBhsB_8iofprP1dYl-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空间位置感知" vertex="1">
           <mxGeometry height="49" width="111" x="-150" y="210" as="geometry" />
