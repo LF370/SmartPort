@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="jgXBFDGOer72tC671yt2" name="HardwareDeployment">
-    <mxGraphModel dx="1229" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2682" dy="1540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,8 +581,8 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-303" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#CC0000);" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20.140000000000004" y="-76" as="sourcePoint" />
-            <mxPoint x="101.79" y="-76" as="targetPoint" />
+            <mxPoint x="1042.14" y="858" as="sourcePoint" />
+            <mxPoint x="1123.79" y="858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-304" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-303" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="220 V 强电" vertex="1">
@@ -592,8 +592,8 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-306" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#FF8000);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="129.14000000000001" y="-75.69" as="sourcePoint" />
-            <mxPoint x="208.00000000000003" y="-75.69" as="targetPoint" />
+            <mxPoint x="1151.14" y="858.31" as="sourcePoint" />
+            <mxPoint x="1230" y="858.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-307" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-306" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="弱电/ 控制 / 视频 / 传感器信号" vertex="1">
@@ -603,8 +603,8 @@
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-309" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#007FFF);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#0000FF);labelBackgroundColor=none;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="243.14" y="-76" as="sourcePoint" />
-            <mxPoint x="322" y="-76" as="targetPoint" />
+            <mxPoint x="1265.1399999999999" y="858" as="sourcePoint" />
+            <mxPoint x="1344" y="858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGGHAHTuI8nof8Tvfhq0-310" connectable="0" parent="oGGHAHTuI8nof8Tvfhq0-309" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" value="高速以太网数据线" vertex="1">
