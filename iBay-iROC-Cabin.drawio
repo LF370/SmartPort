@@ -798,7 +798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uh8-McAKmQ5Fy92SR87X" name="SoftwareArchitecture">
-    <mxGraphModel dx="2667" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3435" dy="1433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -822,9 +822,6 @@
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="仿真数据管线" vertex="1">
           <mxGeometry height="53" width="116" x="692" y="412" as="geometry" />
-        </mxCell>
-        <mxCell id="hT3jd5FYTWUsfuTy1pXX-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频与三维&lt;div&gt;空间融合&lt;/div&gt;" vertex="1">
-          <mxGeometry height="49" width="111" x="-525" y="42" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-14" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="71" width="145" x="-123" y="29" as="geometry" />
@@ -870,25 +867,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ds1EfrYrSFMuCBX__J4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="显示阵列&lt;div&gt;控制组件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="78" x="-310" y="-137" as="geometry" />
+          <mxGeometry height="90" width="78" x="-347" y="-137" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="全景三维可视化套件" vertex="1">
           <mxGeometry height="49" width="161" x="-37" y="-97" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="驾驶员HMI 系统" vertex="1">
           <mxGeometry height="33" width="791.5" x="-189.5" y="-137" as="geometry" />
-        </mxCell>
-        <mxCell id="MxjrBhsB_8iofprP1dYl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="规划路径算法" vertex="1">
-          <mxGeometry height="49" width="111" x="-527" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="MxjrBhsB_8iofprP1dYl-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空间位置感知" vertex="1">
-          <mxGeometry height="49" width="125" x="-663" y="99" as="geometry" />
-        </mxCell>
-        <mxCell id="vkqFiF31et4oUDYq7zcV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="目标感知" vertex="1">
-          <mxGeometry height="49" width="127.11" x="-663" y="42" as="geometry" />
-        </mxCell>
-        <mxCell id="MxjrBhsB_8iofprP1dYl-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="眼球追踪算法" vertex="1">
-          <mxGeometry height="49" width="111" x="-781" y="42" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-3" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="33" width="1175" x="-318" y="679" as="geometry" />
@@ -915,13 +900,13 @@
           <mxGeometry height="45.529411764705884" width="104" x="283" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;fillStyle=hatch;fillColor=light-dark(#000000,#0B0B0B);gradientColor=none;dashed=1;strokeColor=light-dark(#000000,#2E2E2E);verticalAlign=top;align=center;" value="标定数据" vertex="1">
-          <mxGeometry height="71" width="346" x="-722" y="417" as="geometry" />
+          <mxGeometry height="71" width="346" x="-747" y="525" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="岸桥Camera 内外参标定数据" vertex="1">
-          <mxGeometry height="43" width="178.96" x="-715.96" y="438" as="geometry" />
+          <mxGeometry height="43" width="178.96" x="-740.96" y="546" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="舱内摄像头标定数据" vertex="1">
-          <mxGeometry height="43" width="144.11" x="-530" y="438" as="geometry" />
+          <mxGeometry height="43" width="144.11" x="-555" y="546" as="geometry" />
         </mxCell>
         <mxCell id="-wqvOB2n5u9Pyp2wKyWW-36" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="71" width="158" x="146.5" y="245.5" as="geometry" />
@@ -1330,6 +1315,30 @@
         </mxCell>
         <mxCell id="bgqEi_IvP4VPFAUmVHHj-1" edge="1" parent="1" source="VcqUY8eqL9O73YWcsOX7-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#007FFF);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="hT3jd5FYTWUsfuTy1pXX-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgqEi_IvP4VPFAUmVHHj-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="158" width="304" x="-605" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="bgqEi_IvP4VPFAUmVHHj-2" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillStyle=hatch;fillColor=light-dark(#000000,#090909);gradientColor=none;dashed=1;strokeColor=light-dark(#000000,#2E2E2E);verticalAlign=top;align=center;" value="核心算法库" vertex="1">
+          <mxGeometry height="158" width="304" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3jd5FYTWUsfuTy1pXX-13" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;" value="视频与三维&lt;div&gt;空间融合&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49" width="86" x="108" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-2" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;" value="规划路径算法" vertex="1">
+          <mxGeometry height="49" width="85" x="108" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-5" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;" value="空间位置感知" vertex="1">
+          <mxGeometry height="49" width="84" x="12" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqFiF31et4oUDYq7zcV-7" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;" value="目标感知" vertex="1">
+          <mxGeometry height="49" width="83" x="203" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjrBhsB_8iofprP1dYl-8" parent="bgqEi_IvP4VPFAUmVHHj-3" style="rounded=1;whiteSpace=wrap;html=1;" value="眼球追踪算法" vertex="1">
+          <mxGeometry height="49" width="86" x="12" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="bgqEi_IvP4VPFAUmVHHj-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="71" width="86" x="1026" y="645" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
