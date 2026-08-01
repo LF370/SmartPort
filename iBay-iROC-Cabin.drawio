@@ -798,7 +798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uh8-McAKmQ5Fy92SR87X" name="SoftwareArchitecture">
-    <mxGraphModel dx="2896" dy="1228" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="987" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1316,7 +1316,7 @@
           <mxGeometry height="73" width="164" x="105" y="10" as="geometry" />
         </mxCell>
         <mxCell id="bgqEi_IvP4VPFAUmVHHj-12" parent="1" style="sketch=0;outlineConnect=0;fontColor=light-dark(#000000,#99CCFF);gradientColor=none;strokeColor=light-dark(#232F3E,#4B4F54);fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.automation;fontFamily=Helvetica;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="33" width="33" x="109" y="15" as="geometry" />
+          <mxGeometry height="28" width="28" x="109" y="12" as="geometry" />
         </mxCell>
         <mxCell id="hT3jd5FYTWUsfuTy1pXX-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#007FFF);fontColor=light-dark(#000000,#99CCFF);" value="视频AR 引擎" vertex="1">
           <mxGeometry height="71" width="145" x="-123" y="11" as="geometry" />
