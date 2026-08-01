@@ -798,7 +798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uh8-McAKmQ5Fy92SR87X" name="SoftwareArchitecture">
-    <mxGraphModel dx="3132" dy="1391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2650" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -826,12 +826,6 @@
         </mxCell>
         <mxCell id="bgqEi_IvP4VPFAUmVHHj-16" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=light-dark(#A153A0,#4D4D4D);strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.flow_sensor;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#CCFFCC);labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="16" width="19" x="-197" y="339" as="geometry" />
-        </mxCell>
-        <mxCell id="bgqEi_IvP4VPFAUmVHHj-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#333333);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-530" y="192" as="sourcePoint" />
-            <mxPoint x="992.6700000000001" y="196.67000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="bgqEi_IvP4VPFAUmVHHj-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=23;fontColor=default;labelBackgroundColor=default;" value="数据网关2" vertex="1">
           <mxGeometry height="48" width="194.96" x="-530" y="132" as="geometry" />
@@ -1431,6 +1425,12 @@
         </mxCell>
         <mxCell id="vkqFiF31et4oUDYq7zcV-3" parent="UmgauCbk2yUVdfAXnwJw-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFD966);fontColor=light-dark(#000000,#FFFFCC);" value="操作日志系统" vertex="1">
           <mxGeometry height="89" width="111" x="830" y="2" as="geometry" />
+        </mxCell>
+        <mxCell id="bgqEi_IvP4VPFAUmVHHj-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#333333);strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-530" y="192" as="sourcePoint" />
+            <mxPoint x="992.6700000000001" y="196.67000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
